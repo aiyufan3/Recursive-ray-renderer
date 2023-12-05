@@ -12,8 +12,8 @@ This x86-based ray tracing image renderer replicates OpenGL rendering directions
 
 ## Installation
 ```bash
-git clone [Repository URL]
-cd [Project Directory]
+git clone [https://github.com/aiyufan3/Recursive-ray-renderer.git]
+cd [Recursive ray renderer]
 # Follow additional setup instructions
 
 ## Usage
