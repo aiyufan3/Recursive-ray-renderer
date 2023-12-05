@@ -10,11 +10,7 @@ This x86-based ray tracing image renderer replicates OpenGL rendering directions
 - **Additional Shapes**: Inclusion of complex geometries like tetrahedrons, pyramids, etc.
 - **Optional Anti-aliasing & Soft Shadows**: For smoother image quality.
 
-## Installation
-```bash
-git clone [https://github.com/aiyufan3/Recursive-ray-renderer.git]
-cd [Recursive ray renderer]
-# Follow additional setup instructions
+## Follow additional setup instructions
 
 ## Usage
 Detailed guide on initializing and configuring the renderer, including light and texture settings.
